@@ -1,0 +1,28 @@
+{
+  "name": "cards",
+  "version": "1.0.0",
+  "description": "A standard deck of 52 cards.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/VivekRanjan94/cards.git"
+  },
+  "keywords": [
+    "Cards"
+  ],
+  "author": "Vivek Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VivekRanjan94/cards/issues"
+  },
+  "homepage": "https://github.com/VivekRanjan94/cards#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
