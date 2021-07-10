@@ -1,5 +1,5 @@
 {
-  "name": "cards",
+  "name": "@vivek-ranjan/cards",
   "version": "1.0.0",
   "description": "A standard deck of 52 cards.",
   "main": "dist/index.js",
